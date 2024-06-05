@@ -1,0 +1,37 @@
+.me{
+    border: 2px solid;
+    border-radius: 50%;
+    width: 5rem;
+    padding:10px;
+    height: 5rem;
+}
+.a{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+#first-circle{
+    background-color: green;
+    border-color: green;
+}
+#second-circle{
+    background-color: green;
+    border-color: green;
+}
+#third-circle{
+    background-color: green;
+    border-color: green;
+}
+.common{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+#topic{
+    text-align: center;
+}
